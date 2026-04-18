@@ -1,0 +1,45 @@
+INFO     Test_ATLogin:test_ATLogin_DDT_Excel.py:26 Test Case test_login_TC01 Started
+INFO     Test_ATLogin:test_ATLogin_DDT_Excel.py:27 Opening Browser and Navigating to AT Login Page
+INFO     Test_ATLogin:test_ATLogin_DDT_Excel.py:37 Entering Username for row = 2
+INFO     Test_ATLogin:test_ATLogin_DDT_Excel.py:39 Entering Password for row = 2
+INFO     Test_ATLogin:test_ATLogin_DDT_Excel.py:41 Clicking Login Button for row = 2
+INFO     Test_ATLogin:test_ATLogin_DDT_Excel.py:43 Validating Login Status for row = 2
+INFO     Test_ATLogin:test_ATLogin_DDT_Excel.py:51 Updating TestCase_Status_List as Pass for row = 2
+INFO     Test_ATLogin:test_ATLogin_DDT_Excel.py:54 Taking Pass Screenshot for row = 2
+INFO     Test_ATLogin:test_ATLogin_DDT_Excel.py:57 Test Case test_login_TC01 PASSED for row = 2
+INFO     Test_ATLogin:test_ATLogin_DDT_Excel.py:58 Taking Allure Pass Screenshot for row = 2
+INFO     Test_ATLogin:test_ATLogin_DDT_Excel.py:86 Test Case test_login_TC01 Completed for row = 2
+INFO     Test_ATLogin:test_ATLogin_DDT_Excel.py:26 Test Case test_login_TC01 Started
+INFO     Test_ATLogin:test_ATLogin_DDT_Excel.py:27 Opening Browser and Navigating to AT Login Page
+INFO     Test_ATLogin:test_ATLogin_DDT_Excel.py:37 Entering Username for row = 3
+INFO     Test_ATLogin:test_ATLogin_DDT_Excel.py:39 Entering Password for row = 3
+INFO     Test_ATLogin:test_ATLogin_DDT_Excel.py:41 Clicking Login Button for row = 3
+INFO     Test_ATLogin:test_ATLogin_DDT_Excel.py:43 Validating Login Status for row = 3
+INFO     Test_ATLogin:test_ATLogin_DDT_Excel.py:64 Updating TestCase_Status_List as Pass for row = 3
+INFO     Test_ATLogin:test_ATLogin_DDT_Excel.py:67 Taking Fail Screenshot for row = 3
+INFO     Test_ATLogin:test_ATLogin_DDT_Excel.py:70 Test Case test_login_TC01 PASSED for row = 3
+INFO     Test_ATLogin:test_ATLogin_DDT_Excel.py:71 Taking Allure Fail Screenshot for row = 3
+INFO     Test_ATLogin:test_ATLogin_DDT_Excel.py:86 Test Case test_login_TC01 Completed for row = 3
+INFO     Test_ATLogin:test_ATLogin_DDT_Excel.py:26 Test Case test_login_TC01 Started
+INFO     Test_ATLogin:test_ATLogin_DDT_Excel.py:27 Opening Browser and Navigating to AT Login Page
+INFO     Test_ATLogin:test_ATLogin_DDT_Excel.py:37 Entering Username for row = 4
+INFO     Test_ATLogin:test_ATLogin_DDT_Excel.py:39 Entering Password for row = 4
+INFO     Test_ATLogin:test_ATLogin_DDT_Excel.py:41 Clicking Login Button for row = 4
+INFO     Test_ATLogin:test_ATLogin_DDT_Excel.py:43 Validating Login Status for row = 4
+INFO     Test_ATLogin:test_ATLogin_DDT_Excel.py:64 Updating TestCase_Status_List as Pass for row = 4
+INFO     Test_ATLogin:test_ATLogin_DDT_Excel.py:67 Taking Fail Screenshot for row = 4
+INFO     Test_ATLogin:test_ATLogin_DDT_Excel.py:70 Test Case test_login_TC01 PASSED for row = 4
+INFO     Test_ATLogin:test_ATLogin_DDT_Excel.py:71 Taking Allure Fail Screenshot for row = 4
+INFO     Test_ATLogin:test_ATLogin_DDT_Excel.py:86 Test Case test_login_TC01 Completed for row = 4
+INFO     Test_ATLogin:test_ATLogin_DDT_Excel.py:26 Test Case test_login_TC01 Started
+INFO     Test_ATLogin:test_ATLogin_DDT_Excel.py:27 Opening Browser and Navigating to AT Login Page
+INFO     Test_ATLogin:test_ATLogin_DDT_Excel.py:37 Entering Username for row = 5
+INFO     Test_ATLogin:test_ATLogin_DDT_Excel.py:39 Entering Password for row = 5
+INFO     Test_ATLogin:test_ATLogin_DDT_Excel.py:41 Clicking Login Button for row = 5
+INFO     Test_ATLogin:test_ATLogin_DDT_Excel.py:43 Validating Login Status for row = 5
+INFO     Test_ATLogin:test_ATLogin_DDT_Excel.py:64 Updating TestCase_Status_List as Pass for row = 5
+INFO     Test_ATLogin:test_ATLogin_DDT_Excel.py:67 Taking Fail Screenshot for row = 5
+INFO     Test_ATLogin:test_ATLogin_DDT_Excel.py:70 Test Case test_login_TC01 PASSED for row = 5
+INFO     Test_ATLogin:test_ATLogin_DDT_Excel.py:71 Taking Allure Fail Screenshot for row = 5
+INFO     Test_ATLogin:test_ATLogin_DDT_Excel.py:86 Test Case test_login_TC01 Completed for row = 5
+INFO     Test_ATLogin:test_ATLogin_DDT_Excel.py:90 Final Result: ['PASS', 'PASS', 'PASS', 'PASS']
